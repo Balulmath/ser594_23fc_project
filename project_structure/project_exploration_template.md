@@ -303,5 +303,9 @@ This transformation is sound as it follows common practice in machine learning t
 ## Visualization
 
 ### Visual 1: Histogram for FTR (Full Time Result)
-**Analysis:** 
+**Analysis:**
 It indicates that Most wins are at home compared to draws and losses.
+
+### Visual 2: Model performance metrics
+**Analysis:**
+Bar charts summarizing accuracy and F1 score are produced after running the evaluation workflow to provide a quick comparison of trained models.
