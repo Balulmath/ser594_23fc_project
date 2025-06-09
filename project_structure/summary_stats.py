@@ -1,7 +1,7 @@
 import pandas as pd
 
 def compute_summary_statistics():
-    df = pd.read_csv('project_original/season-2223_csv.csv')
+    df = pd.read_csv('data_original/season-2223_csv.csv')
 
     quantitative_features = ['HS', 'AS', 'HST']
     qualitative_feature = 'FTR'
